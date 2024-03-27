@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "992731324428",
+    "firebase_url": "https://kullanicieklemeproje-default-rtdb.firebaseio.com",
+    "project_id": "kullanicieklemeproje",
+    "storage_bucket": "kullanicieklemeproje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992731324428:android:686a88ddd6a19490d9ce29",
+        "android_client_info": {
+          "package_name": "com.furkan.dersprojem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992731324428-887u0miqqjf31lfr1fspqmlq4nvvi0c1.apps.googleusercontent.com",
+          "client_type": 2,
+          "android_info": {
+            "package_name": "com.furkan.dersprojem",
+            "certificate_hash": "48904ab61c6b3a828f3a771da7d644ae7d355826"
+          }
+        },
+        {
+          "client_id": "992731324428-5t4ihol7bqa5bendb792auk4u5cm58kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkcPkhDF7l_XC9zmofXc72Ma--Q-rcTdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992731324428-5t4ihol7bqa5bendb792auk4u5cm58kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
